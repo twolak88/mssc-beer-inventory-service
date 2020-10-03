@@ -15,7 +15,7 @@ import twolak.springframework.beer.inventory.service.repositories.BeerInventoryR
 @Slf4j
 @RequiredArgsConstructor
 @Component
-public class BeerInvntoryBootstrap implements CommandLineRunner{
+public class BeerInventoryBootstrap implements CommandLineRunner{
     
     public static final String BEER_1_UPC = "0631234200036";
     public static final String BEER_2_UPC = "0631234300019";
