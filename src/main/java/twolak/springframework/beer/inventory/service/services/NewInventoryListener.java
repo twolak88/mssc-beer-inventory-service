@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import twolak.springframework.beer.inventory.service.config.JmsConfig;
 import twolak.springframework.beer.inventory.service.domain.BeerInventory;
 import twolak.springframework.beer.inventory.service.repositories.BeerInventoryRepository;
-import twolak.springframework.common.events.NewInventoryEvent;
+import twolak.springframework.brewery.model.events.NewInventoryEvent;
 
 /**
  *

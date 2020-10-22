@@ -1,4 +1,4 @@
-package twolak.springframework.common.events.model;
+package twolak.springframework.brewery.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import java.io.Serializable;

@@ -1,4 +1,4 @@
-package twolak.springframework.beer.inventory.service.web.model;
+package twolak.springframework.brewery.model;
 
 import java.time.OffsetDateTime;
 import java.util.UUID;

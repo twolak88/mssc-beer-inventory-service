@@ -1,7 +1,7 @@
-package twolak.springframework.common.events;
+package twolak.springframework.brewery.model.events;
 
 import lombok.NoArgsConstructor;
-import twolak.springframework.common.events.model.BeerDto;
+import twolak.springframework.brewery.model.BeerDto;
 
 /**
  *

@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import twolak.springframework.beer.inventory.service.repositories.BeerInventoryRepository;
 import twolak.springframework.beer.inventory.service.web.mappers.BeerInventoryMapper;
-import twolak.springframework.beer.inventory.service.web.model.BeerInventoryDto;
+import twolak.springframework.brewery.model.BeerInventoryDto;
 
 /**
  *

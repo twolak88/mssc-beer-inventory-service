@@ -1,11 +1,11 @@
-package twolak.springframework.common.events;
+package twolak.springframework.brewery.model.events;
 
 import java.io.Serializable;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import twolak.springframework.common.events.model.BeerDto;
+import twolak.springframework.brewery.model.BeerDto;
 
 /**
  *
